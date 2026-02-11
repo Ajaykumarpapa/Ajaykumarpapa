@@ -78,9 +78,7 @@ I build end-to-end AI systems — from model training to production deployment. 
 | 📝 | [**AI Summarizer**](https://github.com/Ajaykumarpapa/ai_summarizer) | NLP-powered text summarization — extractive & abstractive approaches | `NLP` `Transformers` |
 
 &nbsp;
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Ajaykumarpapa/Ajaykumarpapa/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect With Me
 
