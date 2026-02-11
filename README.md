@@ -79,6 +79,11 @@ I build end-to-end AI systems — from model training to production deployment. 
 
 &nbsp;
 
+## Contribution Graph
+
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumarpapa&bg_color=0D1117&color=FFFFFF&line=F7B93E&point=FF6B6B&area=true&area_color=F7B93E&hide_border=true)](https://github.com/Ajaykumarpapa)
+
+&nbsp;
 
 ## Connect With Me
 
