@@ -18,11 +18,20 @@
 ```yaml
 name: Ajay Kumar Papa
 role: AI / ML Engineer
-university: BITS Pilani Dubai Campus — Computer Science (Final Year)
 location: Dubai, UAE
-focus: [RAG Systems, NLP, Deep Learning, Generative AI, Multi-Agent AI, MLOps]
-hackathon: /function1 x lablab.ai — Dubai
+education: CS @ BITS Pilani Dubai (2022–2026)
 ```
+
+### About Me
+
+I build end-to-end AI systems — from model training to production deployment. My work sits at the intersection of **NLP**, **Retrieval-Augmented Generation**, and **Deep Learning**, with a focus on shipping things that actually work.
+
+- Built RAG pipelines with **LangChain + Pinecone** for semantic search and grounded generation
+- Trained **LSTM** and **RL agents** for financial prediction with full **MLOps** (Docker, MLflow, FastAPI)
+- Worked with **Stable Diffusion**, **BERT embeddings**, and **multi-agent systems**
+- Competed at **/function1 x lablab.ai** hackathon in Dubai — built and shipped under pressure
+
+I don't just prototype in notebooks — I containerize, serve, and deploy.
 
 ---
 
